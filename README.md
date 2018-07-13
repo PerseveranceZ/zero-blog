@@ -28,4 +28,4 @@
 - [vuex@2.3.1 源码分析](https://github.com/PerseveranceZ/zero-blog/issues/2)
 
 #### Eros
-- []
+- [那些年没错过的弯路，WEEX-EROS 开源一年记。](https://zhuanlan.zhihu.com/p/39680866)
